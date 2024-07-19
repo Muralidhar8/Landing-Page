@@ -1,2 +1,2 @@
 # Landing-page
-Codsoft project
+landing page using HTML and CSS
